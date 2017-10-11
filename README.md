@@ -1,0 +1,2 @@
+# botde
+Discord bot
