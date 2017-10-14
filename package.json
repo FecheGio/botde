@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FecheGio/botde/issues"
   },
-  "homepage": "https://github.com/FecheGio/botde#readme"
+  "homepage": "https://github.com/FecheGio/botde#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
 }
